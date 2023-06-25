@@ -15,7 +15,12 @@ VeriSafe is a project for securely storing and sharing sensitive PII (Personal I
 ![my screenshot](public/assets/Upload.png)
 
 ## Demo Video
-  https://www.loom.com/share/05f01f3d50ac4ad6ab8de70b80190094
+
+<a href="https://www.loom.com/share/05f01f3d50ac4ad6ab8de70b80190094">
+    <p>VeriSafe - Watch Video</p>
+    <img src="https://cdn.loom.com/sessions/thumbnails/05f01f3d50ac4ad6ab8de70b80190094-1681655210137-with-play.gif">
+  </a>
+
 ## Installation
 
 - Add [Metamask Extension](https://chrome.google.com/webstore/detail/metamask/nkbihfbeogaeaoehlefnkodbefgpgknn?hl=en)
