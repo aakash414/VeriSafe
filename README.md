@@ -22,7 +22,7 @@ VeriSafe is a project for securely storing and sharing sensitive PII (Personal I
 - Clone the Repository
 
 ```
-$ git clone https://github.com/aakash414/securevault.git
+$ git clone https://github.com/aakash414/VeriSafe.git
 ```
 
 - Install Dependencies
