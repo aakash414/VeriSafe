@@ -10,9 +10,9 @@ VeriSafe is a project for securely storing and sharing sensitive PII (Personal I
 
 ## Screenshots
 
-![my screenshot](./websafe/public/assets/SecVault.png)
-![my screenshot](./websafe/public/assets/landingpage.png)
-![my screenshot](./websafe/public/assets/Upload.png)
+![my screenshot](public/assets/SecVault.png)
+![my screenshot](public/assets/landingpage.png)
+![my screenshot](public/assets/Upload.png)
 
 ## Demo Video
   https://www.loom.com/share/05f01f3d50ac4ad6ab8de70b80190094
