@@ -1,6 +1,6 @@
-# WebSafe
+# VeriSafe
 
-WebSafe is a project for securely storing and sharing sensitive PII (Personal Identifiable Information) data of citizens. The project implements decentralized storage and provides a convenient way for citizens to securely access their PII data and share with authorized third-party organizations.
+VeriSafe is a project for securely storing and sharing sensitive PII (Personal Identifiable Information) data of citizens. The project implements decentralized storage and provides a convenient way for citizens to securely access their PII data and share with authorized third-party organizations.
 
 ## Features
 
@@ -54,7 +54,6 @@ npm start
 ## Tech Stack
 
 - React.js (Frontend)
-- Node.js (Backend)
 - Solidity (Smart Contracts)
 - IPFS (Decentralized storage and sharding)
 - Metamask (Authentication)
