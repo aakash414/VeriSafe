@@ -1,7 +1,10 @@
+import Sidebar from "../components/Sidebar";
 
 const Settings = () => {
   return (
-    <div>Settings</div>
+    <div className="flex flex-row">
+      <Sidebar/>
+      </div>
   )
 }
 

@@ -1,5 +1,5 @@
 
-import Sidebar from './components/Sidebar'
+//import Sidebar from './components/Sidebar'
 import HomePage from './pages/Homepage'
 import Upload from './pages/Upload'
 import Settings from './pages/Settings'
@@ -11,12 +11,31 @@ import { Route, BrowserRouter, Routes } from "react-router-dom";
 
 function App() {
   
+//   const btnhandler = () => {
   
+//     // Asking if metamask is already present or not
+//     if (window.ethereum) {
+  
+//       // res[0] for fetching a first wallet
+//       window.ethereum
+//         .request({ method: "eth_requestAccounts" })
+//         .then((res) => accountChangeHandler(res[0]));
+//     } else {
+//       alert("install metamask extension!!");
+//     }
+//   };
+  
+//   window.ethereum.request({method:'eth_requestAccounts'})
+// .then(res=>{
+//         // Return the address of the wallet
+//         console.log(res) 
+// })
+
 
   return (
   <div className="flex flex-wrap bg-grey w-screen h-screen">
     <BrowserRouter>
-    <Sidebar />
+    {/* <Sidebar /> */}
     <Routes>
           <Route path="/" element={<HomePage />} />
           <Route path="/upload" element={<Upload />} />

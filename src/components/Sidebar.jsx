@@ -2,7 +2,7 @@ import { NavLink } from 'react-router-dom';
 
 const Sidebar = () => {
   return (
-    <div className="fixed flex flex-col top-0 left-0 w-64 bg-white h-full border-r">
+    <div className=" flex flex-col top-0 left-0 w-64 bg-white h-full border-r">
       <div className="flex items-center justify-center h-14 border-b">
         <div>Navigation</div>
       </div>
@@ -54,7 +54,7 @@ const Sidebar = () => {
           </li>
           <li>
             <NavLink
-              to="/logout"
+              to="/upload"
               className="relative flex flex-row items-center h-11 focus:outline-none hover:bg-gray-50 text-gray-600 hover:text-gray-800 border-l-4 border-transparent hover:border-indigo-500 pr-6"
               activeClassName="active"
             >
@@ -63,7 +63,7 @@ const Sidebar = () => {
                   <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M17 16l4-4m0 0l-4-4m4 4H7m6 4v1a3 3 0 01-3 3H6a3 3 0 01-3-3V7a3 3 0 013-3h4a3 3 0 013 3v1"></path>
                 </svg>
               </span>
-              <span className="ml-2 text-sm tracking-wide truncate">Logout</span>
+              <span className="ml-2 text-sm tracking-wide truncate">Upload</span>
             </NavLink>
           </li>
         </ul>
